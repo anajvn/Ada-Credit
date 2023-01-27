@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "6etSURw0NH0LG1v8AsLe5nJxjqH1I4+OBoXMefZYhZ6yA+CTL3NuYg02zjZtTSP3bHt0+YLy2qJF5OvfbZgf6Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuário\\Desktop\\projetos_C_sharp\\source\\repos\\AdaCredit\\AdaCredit.UI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuário\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
+    "C:\\Users\\Usuário\\.nuget\\packages\\bogus\\34.0.2\\bogus.34.0.2.nupkg.sha512",
+    "C:\\Users\\Usuário\\.nuget\\packages\\consolemenu-simple\\2.4.3\\consolemenu-simple.2.4.3.nupkg.sha512",
+    "C:\\Users\\Usuário\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512",
+    "C:\\Users\\Usuário\\.nuget\\packages\\sharprompt\\2.4.5\\sharprompt.2.4.5.nupkg.sha512",
+    "C:\\Users\\Usuário\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

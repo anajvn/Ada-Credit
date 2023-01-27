@@ -1,0 +1,101 @@
+Name,Document,Phone,Address,Number,Branch,Balance,IsActive
+Elísio Martins,42143015840,(68) 48244-4025,"95326 Oliveira Travessa, Sumaré, Guiana",60624-9,0001,0,True
+Washington Costa,32841303242,(29) 49967-7872,"557 João Rodovia, Ponta Grossa, Vietnã",97170-2,0001,0,True
+Isabella Santos,52898816715,(59) 98982-5086,"195 Melo Rodovia, Canoas, Luxemburgo",37303-2,0001,0,True
+Fabrício Oliveira,54774793504,(45) 15838-4103,"08942 Batista Rua, Taboão da Serra, Trinidad e Tobago",01161-7,0001,0,True
+Maria Júlia Moreira,35159066452,+55 (89) 8671-1633,"656 Paulo Travessa, Cuiabá, China",91638-4,0001,0,True
+Alice Martins,21579285561,(60) 0899-4778,"82082 Esther Alameda, Salvador, Romênia",73663-5,0001,0,True
+Núbia Souza,38329424484,(71) 60747-4609,"9368 Braga Travessa, Recife, Honduras",74318-5,0001,0,True
+Arthur Nogueira,12966481743,+55 (42) 5834-9205,"16969 Batista Travessa, Cariacica, Samoa",79109-8,0001,0,True
+Heitor Albuquerque,147582363,+55 (60) 6291-7743,"52920 Santos Marginal, Curitiba, Papua-Nova Guiné",98677-1,0001,0,True
+Roberta Reis,99051120486,(82) 57882-6865,"8167 Batista Avenida, Rio de Janeiro, Tuvalu",80053-7,0001,0,True
+Benjamin Albuquerque,50569308022,+55 (11) 6735-0240,"470 Lara Rodovia, Belém, Sri Lanka",11041-8,0001,0,True
+João Miguel Martins,1471212169,+55 (46) 0226-3968,"94459 Braga Travessa, Gravataí, Arábia Saudita",62292-7,0001,0,True
+Lorraine Moreira,28167733303,(44) 3764-0156,"169 Felipe Rua, São Bernardo do Campo, Mali",72124-0,0001,0,True
+Yuri Barros,98090601359,+55 (62) 4972-4080,"66239 Manuela Alameda, Mauá, Camarões",83546-9,0001,0,True
+Maria Júlia Souza,60773074989,+55 (51) 1755-4730,"835 Souza Rua, Campos dos Goytacazes, Barbados",94437-2,0001,0,True
+Frederico Nogueira,85103462314,+55 (15) 1651-9418,"9721 Yasmin Travessa, Rio Branco, Montserrat",28758-3,0001,0,True
+Ofélia Pereira,37396751616,(47) 6034-5437,"2021 Silva Marginal, Porto Alegre, Eslovênia",64483-6,0001,0,True
+Daniel Barros,40747458262,(09) 07240-6344,"7161 Saraiva Rodovia, Campo Grande, Papua-Nova Guiné",91360-8,0001,0,True
+Maria Cecília Braga,23870253599,+55 (30) 5190-2535,"8831 Lívia Rua, Taboão da Serra, Turquia",33386-5,0001,0,True
+Maria Clara Franco,36196833279,(23) 5647-0402,"613 Emanuelly Rua, Ponta Grossa, Sri Lanka",99620-5,0001,0,True
+Maitê Batista,28713025775,(74) 20200-0621,"3771 Eloá Alameda, Paulista, Nauru",49391-9,0001,0,True
+Rebeca Moreira,58186084502,(19) 3414-1247,"1956 Fabiano Avenida, Porto Alegre, Malawi",30162-0,0001,0,True
+Maria Moraes,98899757332,(75) 65929-0660,"3553 Santos Avenida, Teresina, Espanha",31008-0,0001,0,True
+Antônio Barros,17031985646,(56) 54793-4561,"754 Macedo Marginal, Santarém, Turquia",21869-6,0001,0,True
+Ladislau Braga,26861527577,+55 (33) 9896-1060,"22369 Pereira Avenida, Suzano, Ucrânia",09392-3,0001,0,True
+Pedro Henrique Xavier,1972875892,(56) 15161-3259,"1480 Carvalho Rodovia, Campina Grande, Eslováquia",11392-4,0001,0,True
+Emanuel Barros,574166111,+55 (94) 7681-0234,"01680 Moreira Alameda, Campo Grande, Vanuatu",17036-8,0001,0,True
+Mércia Costa,57065233055,(59) 89990-0119,"19858 Barros Marginal, João Pessoa, Omã",70649-7,0001,0,True
+Maria Eduarda Moraes,56684179399,(96) 9199-1939,"050 Costa Alameda, Ribeirão das Neves, Serra Leoa",42297-7,0001,0,True
+Bruna Batista,66845886098,(52) 3109-3528,"265 Benjamin Rua, Londrina, Bahamas",12457-1,0001,0,True
+Margarida Melo,59168295569,(26) 2885-0715,"9661 Lorenzo Travessa, São Luís, Uruguai",37847-6,0001,0,True
+Tertuliano Melo,74955489432,(59) 6979-7465,"9257 Carvalho Avenida, Limeira, El Salvador",44811-4,0001,0,True
+Benício Braga,3177252731,(86) 00138-1931,"39503 Souza Rodovia, Belém, Sudão",54239-6,0001,0,True
+Melissa Costa,97089477235,(64) 53302-0281,"8599 Souza Rua, São Luís, Granada",67182-0,0001,0,True
+Caio Carvalho,28957434929,+55 (26) 3822-8967,"416 Marli Rua, Taubaté, Malta",33182-2,0001,0,True
+Pietro Martins,46857309906,+55 (70) 2699-6893,"69879 Marcos Alameda, Cascavel, Latvia",55471-1,0001,0,True
+Henrique Albuquerque,19049732167,(84) 0530-2334,"50835 Macedo Rua, Belford Roxo, Ilhas Geórgia do Sul e Sandwich do Sul",66880-8,0001,0,True
+Rebeca Carvalho,93133046137,(68) 2328-5809,"573 Oliveira Marginal, Montes Claros, Ilha Norfolk",64236-9,0001,0,True
+Nataniel Barros,18406085598,(80) 0425-8437,"04430 Bryan Rua, Campinas, Maldives",85238-3,0001,0,True
+Suélen Melo,89514334229,+55 (88) 2395-4520,"1408 Oliveira Rua, São José dos Pinhais, Tunísia",53448-8,0001,0,True
+Nicolas Pereira,41368825671,(48) 81046-8548,"0682 Santos Alameda, Mogi das Cruzes, Toquelau",53105-6,0001,0,True
+Ofélia Braga,90724599364,+55 (27) 5435-4261,"780 Marcos Marginal, Uberlândia, Sérvia",85464-0,0001,0,True
+Gúbio Barros,63779771969,(93) 7120-6329,"6143 Xavier Rodovia, Caxias do Sul, El Salvador",56891-2,0001,0,True
+Fabiano Moraes,55713832380,(96) 5378-5479,"1268 Sara Avenida, Salvador, Sudão",12515-3,0001,0,True
+Fabrícia Silva,38169310979,+55 (17) 8892-1185,"7979 Sílvia Alameda, Belo Horizonte, Maiote",14825-1,0001,0,True
+Salvador Braga,79149297926,(32) 4572-6672,"430 Souza Travessa, Ribeirão Preto, Eslovênia",43169-0,0001,0,True
+Meire Santos,20848192584,(60) 05309-5260,"37019 Melo Rodovia, Uberaba, São Vicente e Granadinas",22553-3,0001,0,True
+Bruna Moreira,75590326944,(53) 6294-2114,"87460 Moraes Avenida, São José do Rio Preto, Lituânia",58669-7,0001,0,True
+Lorenzo Xavier,873201128,+55 (45) 0322-5213,"305 Roberto Travessa, Osasco, Taiwan",78118-0,0001,0,True
+Tertuliano Souza,13026897437,(50) 2505-2354,"90270 Esther Rua, Curitiba, Wallis e Futuna",32796-0,0001,0,True
+Liz Xavier,63589927756,(87) 3316-2086,"8714 Ígor Rua, Itaquaquecetuba, Zâmbia",06008-5,0001,0,True
+Heloísa Batista,51810084337,(79) 01331-4851,"80285 Xavier Avenida, São João de Meriti, Luxemburgo",87515-8,0001,0,True
+César Saraiva,27401507334,(16) 5857-7935,"87226 Macedo Alameda, Bauru, Guiné Equatorial",70428-6,0001,0,True
+Sílvia Moreira,54248514591,(44) 1877-7039,"8915 João Miguel Travessa, Cascavel, Peru",84691-4,0001,0,True
+Lorenzo Moraes,90339438930,+55 (61) 2038-9664,"47907 Davi Marginal, Ribeirão Preto, Croácia",65080-4,0001,0,True
+Elísio Souza,49923113088,(74) 15180-8294,"719 Emanuel Rodovia, São João de Meriti, Santa Lúcia",61381-9,0001,0,True
+Gúbio Moraes,17647660419,+55 (06) 0135-9320,"2578 Félix Rua, Belford Roxo, Montenegro",88165-0,0001,0,True
+Larissa Costa,89354329032,+55 (86) 9064-2618,"107 Benjamin Rua, Vitória, Eslovênia",07192-9,0001,0,True
+Alice Melo,96629328587,(09) 1952-2863,"3290 Alexandre Avenida, São Luís, Georgia",99737-6,0001,0,True
+Washington Silva,59814058005,(60) 1493-4240,"219 Aline Marginal, Campina Grande, San Marino",09511-4,0001,0,True
+Alice Carvalho,72062482058,(61) 90097-0318,"4491 João Lucas Avenida, Ponta Grossa, Butão",22434-4,0001,0,True
+Hugo Macedo,67518009434,(48) 68688-7616,"5789 Marina Rua, Guarujá, Iêmen",58607-7,0001,0,True
+Júlio César Reis,20494908795,(18) 89758-1527,"21540 Franco Travessa, Santarém, Ilha de Man",47917-9,0001,0,True
+Marcela Moreira,99465564936,(48) 22516-8508,"3434 Aline Travessa, Maceió, Aruba",33453-8,0001,0,True
+Mariana Carvalho,49657563085,+55 (90) 9492-8060,"9074 Saraiva Rua, Porto Alegre, Noruega",26530-7,0001,0,True
+Esther Santos,25687226439,(37) 8060-5449,"6816 Moreira Alameda, Mauá, Suécia",12961-1,0001,0,True
+Leonardo Braga,83334925836,(41) 66617-9149,"045 Danilo Rua, Campina Grande, Bulgária",77605-8,0001,0,True
+Morgana Martins,66874763582,(38) 76112-4096,"11179 Souza Marginal, Ananindeua, Malta",36715-6,0001,0,True
+Sílvia Albuquerque,45445108978,+55 (64) 2957-4863,"00191 Nogueira Marginal, Jundiaí, Papua-Nova Guiné",38689-3,0001,0,True
+Lucas Melo,70510397429,(57) 35464-1847,"673 Luiza Rua, Macapá, Botsuana",43477-3,0001,0,True
+Breno Reis,31541812694,(09) 22972-8674,"383 Pereira Alameda, Maceió, Algéria",54248-4,0001,0,True
+Beatriz Carvalho,58244447110,+55 (91) 9893-4119,"39945 Santos Travessa, Ananindeua, Líbia",39888-5,0001,0,True
+Lara Carvalho,44835310963,+55 (59) 0440-8690,"905 Bernardo Marginal, Campos dos Goytacazes, Guatemala",34490-3,0001,0,True
+Cauã Saraiva,4769007893,(08) 6275-5503,"7365 Costa Rua, Várzea Grande, Polônia",01121-8,0001,0,True
+Maria Cecília Xavier,13535151337,(98) 92088-1600,"04938 Deneval Alameda, Rio de Janeiro, Território da Palestina",40548-2,0001,0,True
+Sophia Moreira,89085475973,(63) 32669-1733,"429 Costa Marginal, Jundiaí, Ilhas Salomão",57862-1,0001,0,True
+Davi Lucca Xavier,13075063020,(53) 9901-7799,"3768 Heitor Alameda, Salvador, Ilhas Virgens",38442-9,0001,0,True
+Joana Moreira,58424126817,(43) 70369-4279,"650 Matheus Alameda, Caxias do Sul, Malawi",60015-3,0001,0,True
+Maria Luiza Albuquerque,80100659121,(47) 17809-4520,"3404 Melo Avenida, Curitiba, Bôsnia",51811-5,0001,0,True
+Melissa Franco,77266511005,+55 (23) 3358-2569,"6183 Núbia Alameda, São Vicente, Quiribati",88988-4,0001,0,True
+Karla Carvalho,74900350789,(29) 4137-8764,"226 Carvalho Marginal, Anápolis, Madagascar",21305-1,0001,0,True
+Manuela Martins,75125081090,(32) 5514-7672,"05159 Silas Avenida, Praia Grande, Iraque",21618-0,0001,0,True
+Larissa Barros,51416430162,+55 (08) 9117-2456,"44316 Martins Avenida, Sorocaba, Costa do Marfim",00764-3,0001,0,True
+Karla Melo,38726497674,+55 (83) 6159-8300,"5797 Franco Avenida, Franca, São Vicente e Granadinas",20364-5,0001,0,True
+Gabriel Barros,93308309076,(29) 77027-2505,"892 Oliveira Travessa, Salvador, Zâmbia",99742-7,0001,0,True
+Norberto Reis,67178012179,(36) 4684-6063,"274 Batista Rua, São Bernardo do Campo, Kuwait",18630-3,0001,0,True
+Bryan Moreira,99785668729,(71) 5178-6969,"6012 Silva Rua, Salvador, Afeganistão",73143-6,0001,0,True
+Maria Alice Moraes,59767333413,+55 (81) 5368-7520,"9329 Macedo Marginal, Taboão da Serra, Bulgária",84520-3,0001,0,True
+Yango Souza,14117976567,(63) 7665-3383,"5983 Batista Rua, São Gonçalo, Maldives",04963-1,0001,0,True
+Bruna Oliveira,75985180290,(17) 01054-3814,"7537 Pereira Rodovia, Taubaté, Burundi",95207-1,0001,0,True
+Lucas Melo,52194484381,(82) 6874-8121,"48313 Costa Alameda, Franca, Butão",53769-7,0001,0,True
+Lucas Braga,56784995080,+55 (91) 7149-7232,"27247 Benjamin Travessa, Cascavel, Vietnã",39831-8,0001,0,True
+Enzo Gabriel Albuquerque,25939214077,+55 (63) 0043-8666,"6376 Larissa Avenida, Londrina, Holanda",49224-2,0001,0,True
+Alessandra Moreira,13727297776,+55 (96) 2271-3289,"5565 Manuela Rua, Anápolis, Palau",29122-3,0001,0,True
+João Lucas Silva,47017849555,(07) 91100-1920,"338 Macedo Travessa, Joinville, Ilhas Heard e McDonald",75748-0,0001,0,True
+Paulo Moreira,64158141045,+55 (60) 4793-3762,"97885 Marcela Marginal, Olinda, Índia",80911-3,0001,0,True
+Murilo Oliveira,84271325443,(63) 06794-7241,"395 Braga Travessa, Uberaba, República da África Central",65405-0,0001,0,True
+Aline Souza,56736349792,(99) 68669-8231,"33569 Gustavo Avenida, Osasco, Espanha",08626-2,0001,0,True
+Calebe Nogueira,61821455733,(02) 7537-3159,"561 Moraes Rua, Uberlândia, Panamá",95070-6,0001,0,True
+Liz Nogueira,54684433969,(44) 0843-2065,"20258 Martins Rodovia, São José dos Campos, Jamaica",65612-6,0001,0,True
